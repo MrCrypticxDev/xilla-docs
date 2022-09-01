@@ -1,11 +1,11 @@
 input: src
 url: https://docs.xilla.gg
-favicon: public/favicon.ico
+favicon: /static/favicon.ico
 
 branding:
-  title: Xilla                 
-  logo: public/nft-avatar.png      
-  logoDark: public/nft-avatar.png     
+  title: Xilla Docs                 
+  logo: /static/XillaBaseHexImage.png      
+  logoDark: /static/XillaTransSmile.ico          
   logoAlign: right             
   label: v1.0.0 
   colors:
