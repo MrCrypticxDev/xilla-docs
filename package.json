@@ -1,0 +1,16 @@
+{
+  "name": "xilla.gg-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrCrypticxDev/xilla.gg-docs",
+  "author": "Matthew <57736724+MrCrypticxDev@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "retype watch --verbose",
+    "prettify": "npx prettier --write . --single-quote"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "retypeapp": "^2.4.0"
+  }
+}

@@ -1,0 +1,36 @@
+input: src
+url: https://docs.xilla.gg
+favicon: public/favicon.ico
+
+branding:
+  title: Xilla                 
+  logo: public/nft-avatar.png      
+  logoDark: public/nft-avatar.png     
+  logoAlign: right             
+  label: v1.0.0 
+  colors:
+    label:                 
+      text: "#5d91fb"      
+      background: "#e1edff" 
+
+links:
+  - text: Home     
+    link: https://docs.xilla.gg
+  - text: Website
+    link: https://xilla.gg  
+    target: blank 
+  - text: Commands
+    link: https://xilla.gg/commands 
+    target: blank
+  - text: Support
+    link: https://xilla.gg/support 
+    target: blank
+    # icon: gear     
+    # iconAlign: left 
+
+footer:
+  copyright: "© Copyright {{ year }}. All rights reserved."
+
+integrations:
+  plausible: 
+    domain: "https://xilla.gg"
