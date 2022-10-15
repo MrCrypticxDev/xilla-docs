@@ -7,11 +7,11 @@ branding:
   logo: /static/XillaBaseHexImage.png      
   logoDark: /static/XillaTransSmile.ico          
   logoAlign: right             
-  label: v1.0.0 
+  label: v1.2.6 
   colors:
     label:                 
-      text: "#5d91fb"      
-      background: "#e1edff" 
+      text: "#faa61a"      
+      background: "#5c90fb" 
 
 links:
   - text: Home     
@@ -30,7 +30,3 @@ links:
 
 footer:
   copyright: "© Copyright {{ year }}. All rights reserved."
-
-integrations:
-  plausible: 
-    domain: "https://xilla.gg"
