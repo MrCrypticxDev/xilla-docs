@@ -10,6 +10,12 @@ Welcome to Xilla Docs, home to any information you need regarding Xilla. If you 
 
 ----------
 
+
+!!!warning PSA
+This documentation *is* being written as you're reading and is *not* done, For any issues please use the Discord server. https://discord.gg/gxxTrwRUPM
+!!!
+
+
 ## Navigate your way
 - The [!button variant="primary" text="**Changelog**" icon="telescope-fill" size="xs"](http://docs.xilla.gg/changelog/1.x/1.0.0/) will keep you in the loop on the latest Xilla update with a thorough run-down so you don't have to think twice.
 - Want to complete the setup quickly and easily without having to read nearly all of the docs? [!button variant="primary" text="**Quickstart**" icon="mortar-board" size="xs"](http://docs.xilla.gg/quick-start/) is the place to be.
