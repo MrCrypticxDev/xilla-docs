@@ -12,7 +12,7 @@ Welcome to Xilla Docs, home to any information you need regarding Xilla. If you 
 
 
 !!!warning PSA
-This documentation *is* being written as you're reading and is *not* done, For any issues please use the Discord server. https://discord.gg/gxxTrwRUPM
+This documentation *is* being written as you're reading and is *not* done. For any issues please use the Discord server. https://discord.gg/gxxTrwRUPM
 !!!
 
 
