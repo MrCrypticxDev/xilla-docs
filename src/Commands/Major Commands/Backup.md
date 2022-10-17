@@ -14,9 +14,9 @@ authors:
 It is recommended to use our slash commands for better experience. Message commands doesn't have every property we support on slash commands. You can use the `;` prefix or `/` to the various commands.
 !!!
 
-### [!badge variant="primary" text="backup create"]
+## [!badge variant="primary" text="backup create"]
 
-# Syntax
+### Syntax
 
 Syntax (example)  | Type
 ---    | ---
@@ -27,7 +27,7 @@ Syntax (example)  | Type
 
 ![](https://im-an.explorer.workers.dev/NSSW8P9.png)
 
-## Properties
+### Properties
 *Use `?` as a prefix to all message commands params below.*
 \* means *optional*
 <!-- - c - **customId** - A phrase to easily remember your backup.
@@ -40,8 +40,11 @@ Parameter   | Output | Type
 [!badge variant="primary" text="name"]*  | A name for your backup. | Slash Command
 [!badge variant="primary" text="custom-id"]* | A phrase to easily remember your backup. | Slash Command
 
-### Permissions
+## Permissions
 - `Administrator` - Required to create a backup. This is by default.  ![](https://im-an.explorer.workers.dev/FQl06rX.png)
 
 
-To disable the privilege to admins creating backups, you can run `;config edit owneronly true`. This will only allow the owner of the guild to create backups and other create methods. ![](https://im-an.explorer.workers.dev/Nq5YO5n.png)
+To disable the privilege of admins creating backups, you can run `;config edit owneronly true`. This will only allow the owner of the guild to interact with the bot's major features. ![](https://im-an.explorer.workers.dev/Nq5YO5n.png)
+
+## [!badge variant="success" text="backup load"]
+**Coming Soon:tm:**

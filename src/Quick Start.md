@@ -1,7 +1,7 @@
 ---
 label: Quick Start
 icon: mortar-board
-order: 1
+order: 500
 align: left
 authors:
   - name: mrcrypticx
