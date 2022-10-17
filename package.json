@@ -7,6 +7,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "retype watch --verbose",
+    "start": "npx retype run",
+    "build": "npx retype build",
     "prettify": "npx prettier --write . --single-quote"
   },
   "dependencies": {

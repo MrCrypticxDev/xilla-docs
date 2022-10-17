@@ -1,4 +1,5 @@
 input: src
+output: build
 url: https://mrcrypticxdev.github.io/xilla.gg-docs/
 favicon: /static/favicon.ico
 
