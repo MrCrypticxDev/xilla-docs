@@ -33,7 +33,7 @@ Syntax (example)  | Type
 <!-- - c - **customId** - A phrase to easily remember your backup.
 - n - **Backup Name** - An optional name for your backup. -->
 
-Parameter `:tools:`  | Info | Type
+Parameter | Info | Type
 ---    | --- | ---
 [!badge variant="success" text="?c"]* |  A phrase to easily remember your backup. | Message Command
 [!badge variant="success" text="?n"]*  | A name for your backup. | Message Command
