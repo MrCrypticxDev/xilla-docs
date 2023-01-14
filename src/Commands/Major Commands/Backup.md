@@ -11,7 +11,7 @@ authors:
 # Backup Commands
 
 !!! :zap: Let's get started! :zap:
-It is recommended to use our slash commands for better experience. Message commands doesn't have every property we support on slash commands. You can use the `;` prefix or `/` to the various commands.
+For the best experience, we recommend using our slash commands. While message commands have some capabilities, slash commands have more features. You can use the `;` prefix or `/` to access a variety of commands.
 !!!
 
 ## [!badge variant="primary" text="backup create"]
