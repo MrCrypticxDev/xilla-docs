@@ -6,13 +6,13 @@ description: Welcome to Xilla Docs, home to any information you need regarding X
 ---
 # Introduction
 
-Welcome to Xilla Docs, home to any information you need regarding Xilla. If you run into trouble with Xilla, you'll always be able to return here. Consider this to be your comprehensive guide.
+Welcome to the Xilla Docs! Here you'll find all the information you need to know about Xilla. If you ever need help, you can always come back here. Think of this as your go-to guide for everything Xilla.
 
 ----------
 
 
 !!!warning PSA
-This documentation *is* being written as you're reading and is *not* done. For any issues please use the Discord server. https://discord.gg/gxxTrwRUPM
+Please note that this documentation is a work in progress and is not yet complete. If you have any questions or issues, please reach out to us on our Discord server at https://discord.gg/gxxTrwRUPM. Thank you!
 !!!
 
 
@@ -22,8 +22,7 @@ This documentation *is* being written as you're reading and is *not* done. For a
 - The [!button variant="primary" text="**Commands**" icon="three-bars" size="xs"](http://docs.xilla.gg/commands/major-commands/backup/) page will give you a quick overview of all the commands Xilla has to offer.
 
 ## What's Xilla?
- **Xilla** is a brand-new, feature-packed Discord Backup Bot tailored ***just right*** for moderators, admins & owners — Xilla synchronizes data, encrypts mesages, backup bans, emojis, threads, guild overview, and much more! Additionally, includes a reliable revert capability so you can always restore part of the prior guild state.
-
+Xilla is a *top-of-the-line* Discord Backup Bot that's perfect for those in charge of servers. It's packed with features that make it easy to keep everything organized and secure, including data synchronization, message encryption, and backups of bans, emojis, threads, and guild overviews. And if you ever need to restore something to an earlier state, Xilla has got you covered with its robust revert capability.
 
 !!!info Useful Resources/Links
 - [Xilla's Website](https://xilla.gg)
