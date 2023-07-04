@@ -17,15 +17,15 @@ Please note that this documentation is a work in progress and is not yet complet
 
 
 ## Navigate your way
-- The [!button variant="primary" text="**Changelog**" icon="telescope-fill" size="xs"](http://docs.xilla.gg/changelog/1.x/1.0.0/) will keep you in the loop on the latest Xilla update with a thorough run-down so you don't have to think twice.
-- Want to complete the setup quickly and easily without having to read nearly all of the docs? [!button variant="primary" text="**Quickstart**" icon="mortar-board" size="xs"](http://docs.xilla.gg/quick-start/) is the place to be.
-- The [!button variant="primary" text="**Commands**" icon="three-bars" size="xs"](http://docs.xilla.gg/commands/major-commands/backup/) page will give you a quick overview of all the commands Xilla has to offer.
+- The [!button variant="primary" text="**Changelog**" icon="telescope-fill" size="xs"](http://docs.xilla-docs.vercel.app/changelog/1.x/1.0.0/) will keep you in the loop on the latest Xilla update with a thorough run-down so you don't have to think twice.
+- Want to complete the setup quickly and easily without having to read nearly all of the docs? [!button variant="primary" text="**Quickstart**" icon="mortar-board" size="xs"](http://docs.xilla-docs.vercel.app/quick-start/) is the place to be.
+- The [!button variant="primary" text="**Commands**" icon="three-bars" size="xs"](http://docs.xilla-docs.vercel.app/commands/major-commands/backup/) page will give you a quick overview of all the commands Xilla has to offer.
 
 ## What's Xilla?
 Xilla is a *top-of-the-line* Discord Backup Bot that's perfect for those in charge of servers. It's packed with features that make it easy to keep everything organized and secure, including data synchronization, message encryption, and backups of bans, emojis, threads, and guild overviews. And if you ever need to restore something to an earlier state, Xilla has got you covered with its robust revert capability.
 
 !!!info Useful Resources/Links
-- [Xilla's Website](https://xilla.gg)
-- [Support Server](https://xilla.gg/discord/support)
+- [Xilla's Website](https://xilla-docs.vercel.app)
+- [Support Server](https://xilla-docs.vercel.app/discord/support)
 - [Shoot us a Tweet!](https://twitter.com/@xillabackupbot)
 !!!

@@ -1,6 +1,6 @@
 input: src
 output: build
-url: https://docs.xilla.gg
+url: https://docs.xilla-docs.vercel.app
 favicon: /static/favicon.ico
 
 branding:
@@ -16,15 +16,15 @@ branding:
 
 links:
   - text: Home     
-    link: https://docs.xilla.gg
+    link: https://docs.xilla-docs.vercel.app
   - text: Website
-    link: https://xilla.gg  
+    link: https://xilla-docs.vercel.app  
     target: blank 
   - text: Commands
-    link: https://xilla.gg/commands 
+    link: https://xilla-docs.vercel.app/commands 
     target: blank
   - text: Support
-    link: https://xilla.gg/support 
+    link: https://xilla-docs.vercel.app/support 
     target: blank
     # icon: gear     
     # iconAlign: left 
